@@ -17,6 +17,9 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Jupyter Notebooks
 * MySQL
 * Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
+* FastAPI
+* Streamlit
+
 
 
 # Alguna duda :envelope:
