@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Michel Villot :sunglasses:
 
-# ¿Quién soy? :bowtie:
+# ¿Quién soy? 🚀
 Soy un Data Scientist con grandes habilidades personales y profesionales. Soy una persona Data-Driven por ello cada accion es basada en datos, adicional a mi background como Administrador comercial que me ayuda a entender las necesidades de cada negocio.
 
 # ¿Que hago? :star:
@@ -19,7 +19,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
 
 
-# Alguna duda
+# Alguna duda :envelope:
 Contactame: 
 * [LinkedIn](https://www.linkedin.com/in/michel-saul-villot-villot-25184b163/)
 * Correo: michel.villot@gmail.com
