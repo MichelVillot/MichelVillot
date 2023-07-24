@@ -22,7 +22,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 # Alguna duda
 Contactame: 
 * [LinkedIn](https://www.linkedin.com/in/michel-saul-villot-villot-25184b163/)
-* [Correo](michel.villot@gmail.com)
+* Correo: michel.villot@gmail.com
 
 
 
